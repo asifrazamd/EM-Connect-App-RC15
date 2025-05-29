@@ -1,0 +1,1 @@
+/Users/apple/Downloads/universal_ble-main 13/universal_ble-main 3/example/build/app/intermediates/cxx/Debug/33222c69/obj/x86_64

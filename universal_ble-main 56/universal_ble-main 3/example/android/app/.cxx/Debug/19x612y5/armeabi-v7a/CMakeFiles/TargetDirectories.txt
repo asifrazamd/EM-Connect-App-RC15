@@ -1,0 +1,2 @@
+/Users/apple/Downloads/universal_ble-main 32/universal_ble-main 3/example/android/app/.cxx/Debug/19x612y5/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/apple/Downloads/universal_ble-main 32/universal_ble-main 3/example/android/app/.cxx/Debug/19x612y5/armeabi-v7a/CMakeFiles/rebuild_cache.dir

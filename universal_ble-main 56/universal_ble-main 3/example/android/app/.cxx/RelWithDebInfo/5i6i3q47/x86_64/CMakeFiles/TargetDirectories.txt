@@ -1,0 +1,2 @@
+/Users/apple/Downloads/universal_ble-main 32/universal_ble-main 3/example/android/app/.cxx/RelWithDebInfo/5i6i3q47/x86_64/CMakeFiles/edit_cache.dir
+/Users/apple/Downloads/universal_ble-main 32/universal_ble-main 3/example/android/app/.cxx/RelWithDebInfo/5i6i3q47/x86_64/CMakeFiles/rebuild_cache.dir
