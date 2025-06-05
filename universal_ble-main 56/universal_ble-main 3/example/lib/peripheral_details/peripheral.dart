@@ -9,6 +9,7 @@ import 'package:universal_ble_example/peripheral_details/widgets/services_list_w
 import 'package:universal_ble_example/widgets/responsive_view.dart';
 import 'dart:io';
 import 'package:path_provider/path_provider.dart';
+import 'package:universal_ble_example/ServiceLogsSwipeScreen.dart';
 
 class PeripheralDetailPage extends StatefulWidget {
   final String deviceId;

@@ -3,9 +3,12 @@ import 'package:flutter/material.dart';
 import 'package:universal_ble_example/BleScanState.dart';
 import 'package:universal_ble_example/dashboard.dart';
 import 'package:provider/provider.dart';
+import 'package:universal_ble_example/peripheral_details/widgets/char.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+    await BLECharacteristicHelper.loadCharacteristicsFromYaml(); // Load once
+
   runApp(
     ChangeNotifierProvider(
       create: (_) => BleScanState(), // Provide the BLE scan state
